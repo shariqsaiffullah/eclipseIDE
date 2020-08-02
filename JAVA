@@ -1,1 +1,12 @@
+package TESTING;
 
+public class isThis {
+
+	public static void main(String[] args) {
+
+boolean  isThisSeriesCool =true;
+System.out.println(isThisSeriesCool);
+
+	}
+
+}
